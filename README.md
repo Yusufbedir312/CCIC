@@ -1,2 +1,2 @@
 # CCIC
-Mandatory training course for my BSc
+Mandatory training coursework focusing on Python, ML, and AI
